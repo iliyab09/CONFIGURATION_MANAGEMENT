@@ -1,0 +1,12 @@
+##Production
+USERNAME: 'iliyab09'
+PGHOST: 'postgresql-production-12.postgres.database.azure.com'
+PGUSER: 'iliyab09@postgresql-production-12'
+PGDATABASE: 'postgres'
+PGPASSWORD: 'H@Sh1CoR3!'
+
+HOST: '52.164.223.80'
+HOST_URL_VAR: 'http://52.164.223.80:8080'
+OKTA_ORG_URL_VAR: 'https://dev-18539789.okta.com'
+OKTA_CLIENT_ID_VAR: '0oa20b2ukvIVGq2cV5d7'
+OKTA_CLIENT_SECRET_VAR: 'ddaUMxloY0WpQ_waEgAMJ64ZEK_Q6p44lhnMgOOv'
