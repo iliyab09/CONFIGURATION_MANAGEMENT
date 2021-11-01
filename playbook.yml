@@ -23,12 +23,6 @@
         state: present
 
 
-    - name: git clone repo
-      shell: rm -rf bootcamp-app && git clone https://github.com/iliyab09/bootcamp-app.git
-      #shell: git clone https://github.com/sela-rhinops/bootcamp-app.git
-      args:
-        chdir: /home/{{ USERNAME }}
-
     - name: create .env file
       copy:
         dest: "/home/{{ USERNAME }}/bootcamp-app/.env"
