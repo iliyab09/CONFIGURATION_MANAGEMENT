@@ -3,6 +3,7 @@
 Goals
 
 Use Terraform to provision the infrastructure</br>
+Use Ansible to deploy the NodeWeightTracker application</br>
 Create two environments: Staging and Production</br>
 Both environments must be identical except for the size of the vms (production ones must be larger)</br>
 
