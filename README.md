@@ -2,7 +2,7 @@
 
 Goals
 
-Use Terraform to provision the infrastructure</br>
+Use Terraform to provision the infrastructure</br> from here ---> https://github.com/iliyab09/TerraformForAzure-IaC
 Use Ansible to deploy the NodeWeightTracker application</br>
 Create two environments: Staging and Production</br>
 Both environments must be identical except for the size of the vms (production ones must be larger)</br>
